@@ -1,3 +1,4 @@
+# IS IT TRUE?
 # BASICs
 super + {space,b,v,e}
   {alacritty,brave, alacritty -e lvim,alacritty -e lfrun}
